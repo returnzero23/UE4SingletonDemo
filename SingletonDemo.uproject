@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{333B91E4-4C70-402A-E558-CFB57DE79984}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SingletonDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject"
+			]
+		}
+	]
+}
